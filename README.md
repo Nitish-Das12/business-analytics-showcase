@@ -6,6 +6,8 @@ SQL data analysis, system design layouts, and executive reporting decks.
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Domain](https://img.shields.io/badge/Domain-Business%20Analytics%20%26%20Software%20System%20Design-orange)
 
+<img width="1295" height="780" alt="dashboard" src="https://github.com/user-attachments/assets/6bc1ca0a-9922-4585-ab6a-5b052a16535b" />
+
 ---
 
 ## 📌 Executive Summary
